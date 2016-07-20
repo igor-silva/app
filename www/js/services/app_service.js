@@ -17,7 +17,6 @@
                 }
             });
         };
-        
         this.postData = function(params){
             return  $http({
                 method: "POST",
